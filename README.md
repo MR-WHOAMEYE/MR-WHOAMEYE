@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm studying 
+I'm studying B-tech AIDS 
 
 
 # 💻 Tech Stack:
