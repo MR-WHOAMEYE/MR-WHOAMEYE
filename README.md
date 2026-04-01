@@ -1,6 +1,5 @@
 # 💫 About Me:
 NAME: THARANKESWARAN M </br>
-REGISTER NUMBER:192424081 </br>
 I'm studying B-tech AIDS
 
 # 💻 Tech Stack:
